@@ -1,4 +1,4 @@
-# Death off ohe Cuff
+# Death off the Cuff
 
 Award-winning interactive fiction game. More information at http://www.sichris.com/Games/Cuff
 
