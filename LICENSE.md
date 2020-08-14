@@ -18,6 +18,6 @@ This work is published from:
 
 Note that this only applies to the Inform 7 source code, available here.
 
-The rights to artwork remain with Rikard Peterson of trumgottist.com.
+The rights to artwork remain with Rikard Peterson of https://trumgottist.com.
 
 The Android user interface is available separately at https://github.com/SimonChris/AndroidIF.
