@@ -1373,7 +1373,7 @@ Instead of talking about Shanes hair for the first time:
 Shane rolls her eyes. 'OK, so I dye my hair. I am actually a brunette. Is that really germane to the case?'"
 
 Instead of taking Shanes hair for the first time:
-	say "'Shane'ss hair was a bit too blonde to be natural. She was obviously wearing a wig!'
+	say "'Shane's hair was a bit too blonde to be natural. She was obviously wearing a wig!'
 	
 You grab Shane's hair and pull as hard as you can. She screams in pain and tumbles from the couch onto the floor. 
 
